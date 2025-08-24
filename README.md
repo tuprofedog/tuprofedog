@@ -1,5 +1,3 @@
-<img src="./tuprofedog" style="width:100%;height:auto;aspect-ratio: 16/9;" />
-
 # ¿Quién soy?
 
 <h3 align="left">📚 El mejor profesor para enseñar a lomitos y lomitas a programar desde cero</h3>
@@ -18,6 +16,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/tuprofedog?label=Seguidores)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUrx5N9ZQBvvTX6bQWnHK2Q?label=Vistas)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUrx5N9ZQBvvTX6bQWnHK2Q?label=Suscriptores)
+
+<img src="./tuprofedog.png" style="width:100%;height:auto;aspect-ratio: 16/9;" />
 
 ## ¿Qué conocimientos tengo?
 
@@ -59,12 +59,11 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 </p>
 
+
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuprofedog/tuprofedog/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuprofedog/tuprofedog/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tuprofedog/tuprofedog/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tuprofedog/tuprofedog/output/snake.svg" alt="Snake animation" />
 
 ###

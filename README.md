@@ -1,8 +1,14 @@
 # ¿Quién soy?
 
-<h3 align="left">📚 El mejor profesor para enseñar a lomitos y lomitas a programar desde cero</h3>
+<p align="left">
+¡Guau guau! 🐾 Te doy la bienvenida a Tu Profedog, la escuela donde este lomito tech comparte los mejores contenidos de programación. Aquí encontrarás cursos y tutoriales que harán que tu cerebrito de cachorro se desarrolle hasta convertirte en un programador experto.
+</p>
 
-<p align="left">Sígueme en mis redes sociales y ponte en contacto conmigo:</p>
+<p align="left">
+Siéntate, quédate y aprende conmigo. Todos los tutoriales están diseñados para que cualquier lomito curioso, desde cachorros principiantes hasta perros senior en el mundo tech, pueda seguirlos a su propio ritmo. ¡No te preocupes si algo te parece difícil, estoy aquí para guiarte con la paciencia de un buen amo!
+</p>
+
+<h3 align="left">Sígueme en mis redes sociales y ponte en contacto conmigo:</h3>
 
 <p align="left">
   <a href="https://fb.com/tuprofedog" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuprofedog" height="30" width="40" /></a>
@@ -11,7 +17,7 @@
     <a href="mailto:tuprofedog@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/800px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="santiago pérez gómez" height="30" width="35" /></a>
 </p>
 
-<p align="left">Algunas de mis estadísticas:</p>
+<h3 align="left">Algunas de mis estadísticas:</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/tuprofedog?label=Seguidores)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUrx5N9ZQBvvTX6bQWnHK2Q?label=Vistas)

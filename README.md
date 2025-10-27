@@ -8,14 +8,16 @@
 Siéntate, quédate y aprende conmigo. Todos los tutoriales están diseñados para que cualquier lomito curioso, desde cachorros principiantes hasta perros senior en el mundo tech, pueda seguirlos a su propio ritmo. ¡No te preocupes si algo te parece difícil, estoy aquí para guiarte con la paciencia de un buen amo!
 </p>
 
-<h3 align="left">Sígueme en mis redes sociales y ponte en contacto conmigo:</h3>
+<h3 align="left">Sígueme en mis redes sociales</h3>
 
 <p align="left">
   <a href="https://fb.com/tuprofedog" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuprofedog" height="30" width="40" /></a>
   <a href="https://instagram.com/tuprofedog" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuprofedog" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@TuProfedog" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tuprofedog" height="30" width="40" /></a>
-    <a href="mailto:tuprofedog@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/800px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="santiago pérez gómez" height="30" width="35" /></a>
+    
 </p>
+
+<p align="left"><a href="mailto:tuprofedog@gmail.com" target="_blank">Ponte en contacto conmigo</a></p>
 
 <h3 align="left">Algunas de mis estadísticas:</h3>
 
